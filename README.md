@@ -119,7 +119,7 @@ Please download **TSOD10K** from its official repository:
 
 | Method  | Backbone    | Pretrained Model | Saliency Maps                                                                                     |
 | ------- | ----------- | ---------------- | ------------------------------------------------------------------------------------------------- |
-| TSPDNet | Coming Soon | Coming Soon      | [Download](https://drive.google.com/file/d/1dvpM9u2wEReGDCcOt_dHZUcA2rkuqqZy/view?usp=drive_link) |
+| TSPDNet | [Download](https://drive.google.com/file/d/1Aew9Arfv8OPCxTdaJcHTnpwSkYVkqe3Y/view) | Coming Soon      | [Download](https://drive.google.com/file/d/1dvpM9u2wEReGDCcOt_dHZUcA2rkuqqZy/view?usp=drive_link) |
 
 More checkpoints will be released after the paper is accepted.
 
